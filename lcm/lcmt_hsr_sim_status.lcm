@@ -1,4 +1,4 @@
-package hsr_drake_sim;
+package drake;
 
 // The current status of a HSR robot.  All angular
 // positions/velocities are expressed in radians and radians/second.
